@@ -8,4 +8,4 @@ analysis.R - makes the
 
 A plot is generated and saved in the figs directory.
 
-Pratibha is crazy
+Pratibha is very crazy
